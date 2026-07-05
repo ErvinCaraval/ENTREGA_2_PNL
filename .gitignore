@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos temporales y artefactos del proyecto
+resultados/
+*.log
+*.pkl
+*.model
+*.npy
