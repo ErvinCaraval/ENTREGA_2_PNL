@@ -69,7 +69,7 @@ Entrega_2_PNL/
 
 ```bash
 cd Entrega_2_PNL
-python3 -m venv .venv
+python3.11 -m venv venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
